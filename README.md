@@ -1,6 +1,13 @@
 ### Hi there 👋
 #### San Francisco, CA | [Email](mailto:dean.hsieh628@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deanhsieh/)
 
+Hey there! I'm Dean, a Project Manager who recently made a career shift, into the field of Software Engineering. I have a background in handling projects and working with diverse teams but my true passion lies in coding and finding solutions to problems.
+
+I've undergone BootCamp training where I immersed myself in JavaScript, Python, Flask, Express, Sequelize and gained hands on experience by developing web applications. Along the way I've sharpened my skills in React/Redux, CSS, HTML, SQL and AWS. Throughout three projects I had the chance to create user interfaces that adapt to different devices and incorporate database functionalities using various languages and frameworks.
+
+Transitioning from a Project Manager to a Software Engineer has provided me with skills like effective communication and strategic planning. These skills allow me to approach software development projects with a perspective. 
+
+As a software engineer I'm always eager to explore opportunities within the industry and build connections. Collaboration is key for fostering projects while staying up to date with the advancements. If you're interested, in connecting or exploring collaborations together feel free to reach out! Lets create something together!
 
 
 #### Languages and Tools:
