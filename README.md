@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### San Francisco, CA | [Email](mailto:dean.hsieh628@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deanhsieh/)
+#### San Francisco, CA | [Email](mailto:dcth628@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deanhsieh/)
 
 Hey there! I'm Dean, a Project Manager who recently made a career shift, into the field of Software Engineering. I have a background in handling projects and working with diverse teams but my true passion lies in coding and finding solutions to problems.
 
