@@ -9,7 +9,7 @@ Hi, I'm Dean, a current Project Manager transition to Software Engineer. I'm pas
 * 🌍  I'm based in San Francisco
 * 🖥️  See my portfolio at [My Portfolio](http://deanhsieh.net/)
 * ✉️  You can contact me at [dcth628@gmail.com](mailto:dcth628@gmail.com)
-* 🚀  I'm currently working on [Tasty-Nutrition](http://tasty-nutrition.onrender.com/)
+* 🚀  I'm currently working on [Quad Chiper](https://quad-cipher.onrender.com/)
 * 🧠  I'm learning Machine Learning & AI
 * 🤝  I'm open to collaborating on any projects!
 
