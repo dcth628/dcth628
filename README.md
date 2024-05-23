@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Project Manager on the way to Software Engineer
 -----------------------------------------------
 
-Hi, I'm Dean, a current Project Manager transition to Software Engineer. I'm passionate about coding, creating user interfaces, and finding solutions to problems. I have experience with various programming languages such as JavaScript, Python, Flask, Express, and Sequelize. I'm proficient in React/Redux, CSS, HTML, SQL, API, and AWS, and have incorporated database functionalities into three projects. My effective communication and strategic planning skills make me an asset to any team. I'm always eager to explore opportunities and build connections, so feel free to reach out if you're interested in collaborating!
+Hi, I'm Dean, a current Project Manager transitioning to Software Engineer. I'm passionate about coding, creating user interfaces, and finding solutions to problems. I have experience with various programming languages such as JavaScript, Python, Flask, Express, and Sequelize. I'm proficient in React/Redux, CSS, HTML, SQL, API, and AWS, and have incorporated database functionalities into three projects. My effective communication and strategic planning skills make me an asset to any team. I'm always eager to explore opportunities and build connections, so feel free to reach out if you're interested in collaborating!
 
 * 🌍  I'm based in San Francisco
 * 🖥️  See my portfolio at [My Portfolio](http://deanhsieh.net/)
